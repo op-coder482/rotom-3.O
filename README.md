@@ -1,7 +1,7 @@
 ![Logo](assets/logo.png)
 
-## What is Rotomgram?
-Rotomgram is a Telegram Bot that provides all informations about Pokémon. It's accessible through this link https://t.me/RotomgramBot or writing @RotomgramBot on Telegram search bar
+## What is Rotom 3.0 ?
+Rotomgram is a Telegram Bot that provides all informations about Pokémon. It's accessible through this link https://t.me/rotomdex1_bot or writing @rotomdex1_bot on Telegram search bar
 
 ## How it works?
 The bot has 3 main commands:
